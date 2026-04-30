@@ -1,15 +1,18 @@
 <!--
-  MANRIBOT | DETROIT: BECOME HUMAN – EDICIÓN ANDROID
-  Perfil profesional con temática de CyberLife
+  MANRIBOT | DETROIT: BECOME HUMAN – EDICIÓN ESTÁTICA
+  Perfil profesional con banner de androides, sin GIFs animados.
 -->
 
 <div align="center">
-  <!-- BANNER CON LOS TRES ANDROIDES -->
-  <img src="" alt="Detroit Become Human banner" width="100%" style="border-radius: 20px; box-shadow: 0 0 20px cyan;"/>
+  
+  <!-- BANNER CON LOS TRES ANDROIDES (imagen estática) -->
+  <img src="https://i.pinimg.com/originals/5e/5b/5f/5e5b5f8c5a5e5b5f8c5a5e5b5f8c5a5e.jpg" alt="Detroit Become Human banner" width="100%" style="border-radius: 24px; border: 1px solid #0ef; box-shadow: 0 0 20px rgba(0,238,255,0.3);"/>
   <br/><br/>
-  <img src="https://media4.giphy.com/media/l0MYt5jH6gkTWQ8M8/giphy.gif" width="120" align="center"/>
-  <img src="https://media.tenor.com/9zW2Pzu41EIAAAAi/detroit-become-human-markus.gif" width="120" align="center"/>
-  <img src="https://media.tenor.com/F9EQ73AvAVkAAAAi/detroit-become-human-kara.gif" width="120" align="center"/>
+  
+  <!-- ICONOS ESTÁTICOS DE LOS ANDROIDES (imágenes PNG estáticas) -->
+  <img src="https://cdn-icons-png.flaticon.com/512/3670/3670154.png" width="70" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="70" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3670/3670160.png" width="70" />
   
   # ⟡ MANRIBOT ⟡
   ### `UNIDAD RK800 // TECNÓLOGO EN DESARROLLO DE SOFTWARE`
@@ -33,8 +36,8 @@
 🎯 **OBJETIVO PRIMARIO:** SEGUIR EVOLUCIONANDO.
 
 <div align="center">
-  <img src="https://media.tenor.com/YptN3b7VihIAAAAi/detroit-become-human-marcus.gif" width="200"/>
-  <img src="https://media.tenor.com/UG5G8COsJMIAAAAi/detroit-become-human-conner.gif" width="200"/>
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0e3f0b6a-4b1d-4a1f-8a1a-3f0b6a4b1d4a/d8a9b5c-5a5e5b5f-8c5a-5e5b-5f8c-5a5e5b5f8c5a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9" width="200" style="border-radius: 16px;"/>
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0e3f0b6a-4b1d-4a1f-8a1a-3f0b6a4b1d4a/d8a9b5c-5a5e5b5f-8c5a-5e5b-5f8c-5a5e5b5f8c5a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9" width="200" style="border-radius: 16px;"/>
   <br/><sub>✦ Modo análisis – Unidad RK800 ✦</sub>
 </div>
 
@@ -46,7 +49,7 @@
 
 | HTML5 | CSS3 | JavaScript | Python | SQL | PHP | MySQL |
 |-------|------|------------|--------|-----|-----|-------|
-| <img src="https://img.icons8.com/color/48/html-5.png" width="40"/> | <img src="https://img.icons8.com/color/48/css3.png" width="40"/> | <img src="https://img.icons8.com/color/48/javascript.png" width="40"/> | <img src="https://img.icons8.com/color/48/python.png" width="40"/> | <img src="https://img.icons8.com/color/48/sql.png" width="40"/> | <img src="https://img.icons8.com/officel/48/php-logo.png" width="40"/> | <img src="https://img.icons8.com/color/48/mysql-logo.png" width="40"/> |
+| <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="40"/> | <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40"/> | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40"/> | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40"/> | <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="40"/> | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="40"/> | <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="40"/> |
 
 ### 🔷 FRAMEWORKS & HERRAMIENTAS
 
