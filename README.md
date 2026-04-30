@@ -1,77 +1,107 @@
-# 🤖 ManriBOT
+<!-- BANNER PRINCIPAL -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0GqeSlGSRQutn7nO/giphy.gif" width="100%"/>
+  <img src="TU_BANNER_AQUI.png" width="100%" />
 </p>
 
+<h1 align="center">🤖 ManriBOT</h1>
 <p align="center">
   <b>DEVELOPER • LEARNER • CREATOR</b>
 </p>
 
+---
+
 ```bash
-> booting system...
-> loading identity: Juan Manuel
-> role: Software Developer
-> status: ACTIVE
+> SYSTEM BOOT...
+> MODEL: ManriBOT
+> NAME: Juan Manuel
+> STATUS: ACTIVE
+> LOCATION: Colombia
 ```
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 // SOBRE MÍ
+
+<table>
+<tr>
+<td width="50%">
 
 Hola, soy **Juan Manuel <ManriBOT />**
 
 🎓 Tecnólogo en Desarrollo de Software — SENA
-💻 Apasionado por el desarrollo web y la creación de soluciones tecnológicas
-🚀 En constante aprendizaje y evolución
-🤖 Construyendo proyectos que generen impacto
+💻 Enfocado en desarrollo web
+🚀 En constante aprendizaje
+🤖 Construyendo soluciones tecnológicas
 
 ```bash
-> objetivo: seguir evolucionando...
+> OBJETIVO: EVOLUCIONAR CONSTANTEMENTE
 ```
+
+</td>
+
+<td width="50%">
+<img src="https://media.giphy.com/media/xT0GqeSlGSRQutn7nO/giphy.gif"/>
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ // STACK TECNOLÓGICO
+
+<table>
+<tr>
+<td align="center">
 
 ### 🖥️ Lenguajes
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php" />
 
-### 🧰 Frameworks & Herramientas
+</td>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=django,vue,bootstrap,mysql,laravel" />
-</p>
+<td align="center">
+
+### 🧰 Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=django,vue,bootstrap,mysql,laravel" />
+
+</td>
+</tr>
+</table>
 
 ```bash
-> tools loaded successfully...
+> STACK LOADED SUCCESSFULLY
 ```
 
 ---
 
-## 🚀 Proyectos
+## 🚀 // PROYECTOS
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="500"/>
-</p>
+<table>
+<tr>
+<td width="50%">
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"/>
+</td>
+
+<td width="50%">
 
 ```bash
-> loading projects...
-> status: in progress
+> LOADING PROJECTS...
+> STATUS: IN PROGRESS
 ```
 
-🔹 Próximamente:
+🔹 Sistema de Inventario
+🔹 Plataforma Educativa
+🔹 Dashboard Analytics
 
-* Sistemas web con Django
-* Aplicaciones con Vue
-* APIs y automatizaciones
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 // ESTADÍSTICAS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ManriBOT&show_icons=true&theme=tokyonight"/>
@@ -83,16 +113,24 @@ Hola, soy **Juan Manuel <ManriBOT />**
 
 ---
 
-## 📡 Contacto
+## 📡 // CONTACTO
+
+<table>
+<tr>
+<td>
 
 📧 [tu.correo@email.com](mailto:tu.correo@email.com)
-💼 LinkedIn (añádelo aquí)
+💼 LinkedIn
+
+</td>
+
+<td>
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"/>
+</td>
+</tr>
+</table>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400"/>
-</p>
 
 ```bash
 > "No buscamos ser humanos.
