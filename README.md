@@ -5,7 +5,7 @@
 
 <div align="center">
   <!-- BANNER CON LOS TRES ANDROIDES -->
-  <img src="https://i.imgur.com/5Xc5m6E.jpg" alt="Detroit Become Human banner" width="100%" style="border-radius: 20px; box-shadow: 0 0 20px cyan;"/>
+  <img src="[https://i.imgur.com/5Xc5m6E.jpg](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad5da571-fecb-491c-8df0-a87619c49bfd/dcnz1sl-1449ded8-4424-47a9-b698-467ab19ba7ef.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9hZDVkYTU3MS1mZWNiLTQ5MWMtOGRmMC1hODc2MTljNDliZmQvZGNuejFzbC0xNDQ5ZGVkOC00NDI0LTQ3YTktYjY5OC00NjdhYjE5YmE3ZWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.afF0-3Z8UtCn0coQ3bxJqwYhzUdf-13pJnUwzn5MU8E)" alt="Detroit Become Human banner" width="100%" style="border-radius: 20px; box-shadow: 0 0 20px cyan;"/>
   <br/><br/>
   <img src="https://media4.giphy.com/media/l0MYt5jH6gkTWQ8M8/giphy.gif" width="120" align="center"/>
   <img src="https://media.tenor.com/9zW2Pzu41EIAAAAi/detroit-become-human-markus.gif" width="120" align="center"/>
