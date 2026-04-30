@@ -1,68 +1,107 @@
 # 🤖 ManriBOT
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/xT0GqeSlGSRQutn7nO/giphy.gif" width="100%"/>
+</p>
+
+<p align="center">
+  <b>DEVELOPER • LEARNER • CREATOR</b>
 </p>
 
 ```bash
-> booting identity...
-> name: Juan Manuel
+> booting system...
+> loading identity: Juan Manuel
 > role: Software Developer
-> status: active
+> status: ACTIVE
 ```
 
 ---
 
 ## 🧠 Sobre mí
 
+Hola, soy **Juan Manuel <ManriBOT />**
+
 🎓 Tecnólogo en Desarrollo de Software — SENA
-💻 Enfocado en desarrollo web y construcción de sistemas
-🤖 Apasionado por la tecnología, la automatización y la IA
-🚀 En constante evolución y aprendizaje
+💻 Apasionado por el desarrollo web y la creación de soluciones tecnológicas
+🚀 En constante aprendizaje y evolución
+🤖 Construyendo proyectos que generen impacto
+
+```bash
+> objetivo: seguir evolucionando...
+```
 
 ---
 
-## ⚙️ Tecnologías
+## ⚙️ Tech Stack
 
 ### 🖥️ Lenguajes
 
-HTML • CSS • JavaScript • Python • PHP • SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php" />
+</p>
 
 ### 🧰 Frameworks & Herramientas
 
-Django • Vue • Bootstrap • MySQL • Workbench
+<p>
+  <img src="https://skillicons.dev/icons?i=django,vue,bootstrap,mysql,laravel" />
+</p>
+
+```bash
+> tools loaded successfully...
+```
 
 ---
 
-## 🧩 Proyectos
+## 🚀 Proyectos
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="500"/>
 </p>
 
-🔹 Próximamente... (proyectos en desarrollo)
+```bash
+> loading projects...
+> status: in progress
+```
+
+🔹 Próximamente:
+
+* Sistemas web con Django
+* Aplicaciones con Vue
+* APIs y automatizaciones
 
 ---
 
-## 📊 Estadísticas
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JMB0T&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ManriBOT&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMB0T&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManriBOT&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📡 Contacto
 
-📧 Tu correo aquí
-💼 LinkedIn (recomendado crearlo)
+📧 [tu.correo@email.com](mailto:tu.correo@email.com)
+💼 LinkedIn (añádelo aquí)
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400"/>
+</p>
+
 ```bash
-> system.log("become more than human...");
+> "No buscamos ser humanos.
+> Buscamos ser mejores cada día."
+> — Markus
 ```
+
+---
+
+<p align="center">
+  <b>DESIGNED & CODED BY MANRIBOT</b>
+</p>
